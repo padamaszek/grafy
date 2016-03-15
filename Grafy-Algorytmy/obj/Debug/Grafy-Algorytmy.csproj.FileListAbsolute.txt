@@ -1,0 +1,6 @@
+c:\users\shaq\documents\visual studio 2015\Projects\Grafy-Algorytmy\Grafy-Algorytmy\bin\Debug\Grafy-Algorytmy.exe.config
+c:\users\shaq\documents\visual studio 2015\Projects\Grafy-Algorytmy\Grafy-Algorytmy\bin\Debug\Grafy-Algorytmy.exe
+c:\users\shaq\documents\visual studio 2015\Projects\Grafy-Algorytmy\Grafy-Algorytmy\bin\Debug\Grafy-Algorytmy.pdb
+c:\users\shaq\documents\visual studio 2015\Projects\Grafy-Algorytmy\Grafy-Algorytmy\obj\Debug\Grafy-Algorytmy.csprojResolveAssemblyReference.cache
+c:\users\shaq\documents\visual studio 2015\Projects\Grafy-Algorytmy\Grafy-Algorytmy\obj\Debug\Grafy-Algorytmy.exe
+c:\users\shaq\documents\visual studio 2015\Projects\Grafy-Algorytmy\Grafy-Algorytmy\obj\Debug\Grafy-Algorytmy.pdb
